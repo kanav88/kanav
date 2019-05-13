@@ -6,12 +6,19 @@
   desc:
     detail: |+
             Working as an Automation Test/continuous integration Engineer with close knit team of six software engineers for a product based company. Responsible for testing and releasing test and measurement instruments for high-speed optical communications. Being the only Test Engineer in the team responsibilities ranges from creating test scripts across all the layers of the product to sign off the releases to customers overseas. 
+            
             •	Planning and creating UI test structure from scratch using Selenium and BDD tools such as java cucumber and Codeception. 
+            
             •	Implementing Continuous integration by setting up Jenkins in remote linux machine providing developers with quick feedback on commits. 
+            
             •	Writing integration tests in Python to test backend. 
+            
             •	Testing api using postman to check json response. 
+            
             •	Using JIRA intensively to log bugs and tracking the lifecycle of bugs. 
+            
             •	Sign off the releases before sending to customers. 
+            
             •	Helping developers in writing unit tests across different modules. 
     i18n: company_a_desc
   date:
