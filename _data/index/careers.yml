@@ -4,8 +4,7 @@
     detail: Coherent Solutions
     i18n: company_a
   desc:
-    detail: |
-            Working as an Automation Test/continuous integration Engineer with close knit team of six software engineers for a product based company. Responsible for testing and releasing test and measurement instruments for high-speed optical communications. Being the only Test Engineer in the team responsibilities ranges from creating test scripts across all the layers of the product to sign off the releases to customers overseas.\n
+    detail: Working as an Automation Test/continuous integration Engineer with close knit team of six software engineers for a product based company. Responsible for testing and releasing test and measurement instruments for high-speed optical communications. Being the only Test Engineer in the team responsibilities ranges from creating test scripts across all the layers of the product to sign off the releases to customers overseas.\n
             •	Planning and creating UI test structure from scratch using Selenium and BDD tools such as java cucumber and Codeception.\n
             •	Implementing Continuous integration by setting up Jenkins in remote linux machine providing developers with quick feedback on commits.\n
             •	Writing integration tests in Python to test backend.\n
