@@ -8,15 +8,16 @@
   img: /static/assets/img/landing/python.png
   desc: This project shows code for making a smart clock showing time, temperature and humidity values
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: PIR motion sensor
+  i18n: PIR motion sensor
+  gh_user: kanav88
+  repo: pir_motion_sensor 
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: This project will produce a notification everytime pir motion sensor senses a motion
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Tilt Sensor
+  i18n: tilt sensor
+  gh_user: kanav88
+  repo: tilt_sensor 
+  img: /static/assets/img/landing/python.png
+  desc: This code shows how to control servo motor with the help of tilt sensor
