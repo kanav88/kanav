@@ -4,14 +4,14 @@
     detail: Coherent Solutions
     i18n: company_a
   desc:
-    detail: Working as an Automation Test/continuous integration Engineer with close knit team of six software engineers for a product based company. Responsible for testing and releasing test and measurement instruments for high-speed optical communications. Being the only Test Engineer in the team responsibilities ranges from creating test scripts across all the layers of the product to sign off the releases to customers overseas.\n
-            •	Planning and creating UI test structure from scratch using Selenium and BDD tools such as java cucumber and Codeception.\n
-            •	Implementing Continuous integration by setting up Jenkins in remote linux machine providing developers with quick feedback on commits.\n
-            •	Writing integration tests in Python to test backend.\n
-            •	Testing api using postman to check json response.\n
-            •	Using JIRA intensively to log bugs and tracking the lifecycle of bugs.\n
-            •	Sign off the releases before sending to customers.\n
-            •	Helping developers in writing unit tests across different modules.\n
+    detail: Working as an Automation Test/continuous integration Engineer with close knit team of six software engineers for a product based company. Responsible for testing and releasing test and measurement instruments for high-speed optical communications. Being the only Test Engineer in the team responsibilities ranges from creating test scripts across all the layers of the product to sign off the releases to customers overseas._
+            •	Planning and creating UI test structure from scratch using Selenium and BDD tools such as java cucumber and Codeception._
+            •	Implementing Continuous integration by setting up Jenkins in remote linux machine providing developers with quick feedback on commits._
+            •	Writing integration tests in Python to test backend._
+            •	Testing api using postman to check json response._
+            •	Using JIRA intensively to log bugs and tracking the lifecycle of bugs._
+            •	Sign off the releases before sending to customers._
+            •	Helping developers in writing unit tests across different modules._
     i18n: company_a_desc
   date:
     detail: Feb. 2018
